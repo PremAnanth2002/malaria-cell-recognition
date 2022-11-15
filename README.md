@@ -27,8 +27,7 @@ Fit the model using the augmented images
 
 ## PROGRAM
 ```python
-Name:Akash S
-Reg No: 212220040005
+
 python3
 
 import tensorflow as tf
